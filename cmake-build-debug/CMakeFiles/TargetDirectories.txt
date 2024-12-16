@@ -1,0 +1,3 @@
+/Users/alexrakowski/Desktop/School/PŁ/cmake-build-debug/CMakeFiles/P.dir
+/Users/alexrakowski/Desktop/School/PŁ/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexrakowski/Desktop/School/PŁ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
